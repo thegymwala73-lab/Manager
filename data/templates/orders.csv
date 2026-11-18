@@ -1,0 +1,2 @@
+order_id,order_date,customer,city,items,order_value,advance,balance,promised_dispatch,dispatch_date,install_date,status,next_step,owner
+TGW-0001,05/11/2026,Sample Fitness Studio,Mohali,"2x Treadmill; 1x Row machine",250000,125000,125000,20/11/2026,,,In production,Confirm powder-coat colour,Product

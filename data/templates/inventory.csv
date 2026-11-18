@@ -1,0 +1,2 @@
+sku,item,category,on_hand,reorder_point,reorder_qty,avg_monthly_sales,lead_time_days,supplier,unit_cost
+SAMPLE-DB-10,Dumbbell 10kg (pair),Free weights,4,6,,8,15,Sample Supplier,2400

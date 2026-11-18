@@ -1,0 +1,7 @@
+SR. NO.,DATE,EMPLOYEE NAME,CUSTOMER NAME,PHONE NO, LOCATION,Requirement,Remarks 1,Remarks 2,Remarks 3,Remarks 4,LAST CALL,QUOTATION DATE,Quotation  YES/NO ],VISTING DATE,SALE
+1,03/11/2026,test seller two,Epsilon Fitness,9000000005,Chandigarh,Leg press,interested,,,,16/11/2026,,YES,,
+2,04/11/2026,test seller two,Zeta,9000000006,Ludhiana,Cable crossover,,,,,,,NO,,
+3,05/11/2026,test seller two,,90000000099,,NO ANSWER,NO ANSWER,NOT INTRESTED,,,,,,,
+4,06/11/2026,test seller two,Theta,9000000008,Pune,NEW GYM SETUP 1500SQ,SEND CATALOUGE,PLAN IN JULY,,,,,,,
+5,06/11/2026,test seller two,Iota,9000000001,Mohali,Recumbent bike,ALREADY WITH TEST SELLER ONE,,,,,,,,
+6,07/11/2026,test seller two,Kappa,9000000009,Delhi,HOME GYM,NO REQUIRMENT YET,,,,,,,,

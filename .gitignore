@@ -1,0 +1,10 @@
+# Private business data: never commit (this repo is public)
+data/live/
+reports/*
+!reports/README.md
+knowledge/private/
+*.xlsx
+*.xls
+.env
+__pycache__/
+*.pyc

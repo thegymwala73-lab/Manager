@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Bash(python3 tools/*)",
+      "Bash(python3 -m unittest*)",
+      "mcp__Google_Drive__search_files",
+      "mcp__Google_Drive__get_file_metadata",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__Google_Drive__download_file_content",
+      "mcp__Google_Drive__list_recent_files",
+      "mcp__Google_Sheets__get_spreadsheet",
+      "mcp__Google_Sheets__get_values",
+      "mcp__Google_Docs__read_doc",
+      "mcp__Gmail__search_threads",
+      "mcp__Gmail__get_thread",
+      "mcp__Gmail__get_message",
+      "mcp__Gmail__list_labels",
+      "mcp__Gmail__list_drafts",
+      "mcp__Gmail__get_draft",
+      "mcp__Google_Calendar__list_calendars",
+      "mcp__Google_Calendar__list_events",
+      "mcp__Google_Calendar__get_event",
+      "mcp__Google_Calendar__search_events"
+    ],
+    "ask": [
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__reply",
+      "mcp__Gmail__forward",
+      "mcp__Gmail__trash_message",
+      "mcp__Gmail__trash_thread",
+      "mcp__Google_Calendar__create_event",
+      "mcp__Google_Calendar__update_event",
+      "mcp__Google_Calendar__delete_event",
+      "mcp__Google_Calendar__respond_to_event",
+      "mcp__Google_Sheets__update_values",
+      "mcp__Google_Sheets__append_values",
+      "mcp__Google_Sheets__batch_clear_values",
+      "mcp__Google_Sheets__update_spreadsheet",
+      "mcp__Google_Sheets__update_formulas",
+      "mcp__Google_Sheets__insert_dimension",
+      "mcp__Google_Drive__share_file",
+      "mcp__Google_Drive__trash_file",
+      "mcp__Google_Drive__update_file",
+      "mcp__Google_Docs__update_doc",
+      "Bash(git push*)"
+    ]
+  }
+}

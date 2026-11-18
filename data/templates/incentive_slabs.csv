@@ -1,0 +1,5 @@
+min_achievement_pct,max_achievement_pct,incentive_pct_of_sales,fixed_bonus
+0,80,0,0
+80,100,1,0
+100,120,1.5,0
+120,,2,2000

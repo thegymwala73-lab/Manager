@@ -1,0 +1,3 @@
+vendor,bill_no,bill_date,due_date,amount,paid,priority,category,notes
+Sample Steel Co,INV-101,01/11/2026,16/11/2026,85000,0,A,supplier,MS tubes
+GST,GSTR-3B Oct,,20/11/2026,42000,0,A,statutory,

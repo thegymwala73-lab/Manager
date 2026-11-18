@@ -1,0 +1,11 @@
+DAILY REVIEW (title row),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fill the green columns every evening by 7 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60-day rule text,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Next free lead ID: L-99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAD DETAILS: Team Manager (morning),,,,,,,,,,,,,,,,EVENING UPDATE: assignee (by 7 PM),,,,,,,,,,AUTOMATIC,,,,,,,,
+ID,Assigned on (date & time),Channel,Source,Name,Phone,Email,City,State,Zip,Looking for,Area (as submitted),Budget (as submitted),Phone verified?,Assigned to,Original owner,Call status,First contact date,Last update date,Stage,Next follow-up date,Quotation value (₹),Expected closing date,Booking date,Lost reason,Update notes (new line with date),Score,Priority,Value (₹),Contacted within 24h?,Days since received,Ownership till (60 days),Ownership status,Credit to,Alert
+L-01,02-Nov-26 12:00 am,Meta lead form,The Gym Wala,Wb Alpha,9100000001,,Ranchi,Jharkhand,,Commercial Gym Setup,,10L - 20L,No,Seller X,Seller X,Connected,02-Nov-2026,10-Nov-2026,Contacted,15-Nov-2026,,,,,call back,7,High,"₹1,500,000",Yes,16,01-Jan-2027,Within 60 days,,No update 3+ days
+L-02,05-Nov-26 10:00 am,IndiaMART,The Gym Wala,Wb Beta,+919100000002,,Pune,Maharashtra,,Home Gym,,Under 5L,Yes,Seller X,Seller X,Connected,05-Nov-2026,17-Nov-2026,Quotation sent,18-Nov-2026,"₹2,40,000",30-Nov-2026,,,quote sent,6,Medium,"₹240,000",Yes,13,04-Jan-2027,Within 60 days,,OK
+L-03,06-Nov-26 11:00 am,Justdial,The Gym Wala,Wb Gamma,9100000003,,Delhi,Delhi,,Treadmill,,Under 5L,Yes,Seller X,Seller X,Connected,06-Nov-2026,12-Nov-2026,Booked,,,,12-Nov-2026,,booked,5,Medium,,Yes,12,05-Jan-2027,Within 60 days,Seller X,OK
+L-04,07-Nov-26 11:00 am,Meta lead form,The Gym Wala,Wb Delta,9100000004,,Agra,UP,,Commercial Gym Setup,,5L - 10L,No,Seller X,Seller X,Not picked,07-Nov-2026,08-Nov-2026,Lost,,,,,Budget too low,,2,Low,,Yes,11,06-Jan-2027,Within 60 days,,OK
+L-05,18-Nov-26 09:00 am,Meta lead form,The Gym Wala,Wb Eps,9100000005,,Jaipur,Rajasthan,,Commercial Gym Setup,,20L - 35L,No,Seller X,Seller X,,,,New,25-Nov-2026,,,,,,8,High,,No,0,17-Jan-2027,Within 60 days,,OK

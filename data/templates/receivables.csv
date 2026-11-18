@@ -1,0 +1,2 @@
+customer,order_id,invoice_date,due_date,amount,received,notes
+Sample Fitness Studio,TGW-0001,05/11/2026,25/11/2026,250000,125000,Balance before installation

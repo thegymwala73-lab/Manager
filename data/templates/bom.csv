@@ -1,0 +1,7 @@
+part,spec,qty,unit_cost,category
+Main frame tube,MS 50x100 2mm,12,180,material
+Welding and fabrication,per unit,1,3500,labour
+Powder coating,per unit,1,1800,finishing
+Upholstery seat and back,,1,1200,upholstery
+Bearings and hardware,,1,950,hardware
+Packing,,1,400,packing
